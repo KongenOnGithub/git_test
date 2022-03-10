@@ -1,2 +1,3 @@
 Im Michael
 trying VScode as commit editor
+making changes
